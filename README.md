@@ -9,7 +9,7 @@ Started with this tweet: https://twitter.com/lenadroid/status/951982166946201601
 
 # Open Source Mentors
 
-| Contributor/Mentor Name                  | Twitter        | PR Mentorship Focus area    |
+| Contributor/Mentor Name                  | Twitter/Github        | PR Mentorship Focus area    |
 | :-----------          |     :---       |          :--- |
 | Jason Brown   | https://twitter.com/jasobrown    | Apache Cassandra    |
 | Henrik Feldt  | https://twitter.com/henrikfeldt       | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec |
