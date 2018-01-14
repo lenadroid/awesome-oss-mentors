@@ -117,6 +117,7 @@ Started with this tweet: https://twitter.com/lenadroid/status/951982166946201601
 | Liviu Tudor   |  https://twitter.com/liviutudor  | *   |
 | Parthvi Vala | https://twitter.com/ValaParthvi | I have some experience working in python and django and I'd be more than happy to help someone.
 | Andrew Brown | https://twitter.com/waunakeesoccer1 | * |
+| Adam Dymitruk | https://twitter.com/adymitruk | * |
 
 
 
