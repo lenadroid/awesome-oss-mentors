@@ -123,3 +123,15 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Jon Wood | https://twitter.com/JWood | Experience with .NET, Python, Jupyter, and data science items |
 | Cristian Măgherușan-Stanciu |  https://twitter.com/magheru_san https://github.com/cristim | Eager to mentor people interested to contribute on [AutoSpotting](https://github.com/cristim/autospotting), mainly Go with the AWS SDK |
 | Gustavo Franco | https://twitter.com/aintmyusername | I have 7 years of experience working with Node.js and I'd like to help new developers |
+| Irakli Safareli | https://twitter.com/safareli | Open for helping people contribute to various Purescript projects |
+| Kalle Ott | https://twitter.com/kaoDev | TypeScript |
+| Esteban Solano G. | https://twitter.com/stvansolano | I'm helping these days as mentor to help shipping apps to heroku |
+| Mauricio Salatino | https://twitter.com/salaboy | I'm totally in activiti, java, bpm, microservices |
+| cyplo | https://twitter.com/cyplo | Any project really, I can help with reviews, communication with maintainers and whatever else is needed :) I am a contributor to the Rust compiler and other Rust projects, if that helps you choose :) |
+| Php Mentoring | http://php-mentoring.org/ | PHP community has a website dedicated exactly to that purpose - network that connects mentors and apprentices. Regardless of the name, it's not limited to PHP only, but (un)related technologies as well. |
+| Nicolas CHEVOBBE | https://twitter.com/nicolaschevobbe | Can mentor anyone who wants to contribute on FirefoxDevTools |
+| Jens Schauder | https://twitter.com/jensschauder | I can help with spring data, especially commons, JPA and JDBC. |
+| Spencer Gibb | https://twitter.com/spencerbgibb | I'm willing to help with Spring Cloud contributions |
+| Shobhit Chittora | https://twitter.com/shobhitchittora | Contributing to Visual Studio Code and NodeJS |
+| Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
+| Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
