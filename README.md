@@ -120,7 +120,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Parthvi Vala | https://twitter.com/ValaParthvi | I have some experience working in python and django and I'd be more than happy to help someone.
 | Andrew Brown | https://twitter.com/waunakeesoccer1 | * |
 | Adam Dymitruk | https://twitter.com/adymitruk | * |
-
+| Cristian Măgherușan-Stanciu |  https://twitter.com/magheru_san https://github.com/cristim | Eager to mentor people interested to contribute on [AutoSpotting](https://github.com/cristim/autospotting), mainly Go with the AWS SDK |
 
 
 
