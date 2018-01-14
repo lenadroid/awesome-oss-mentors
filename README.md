@@ -7,6 +7,8 @@ There are a lot of people who would like to contribute to OSS, and it is great. 
 
 Started with this tweet: https://twitter.com/lenadroid/status/951982166946201601
 
+The star symbol under "PR Mentorship Focus area" column means that the mentor didn't indicate their focus area and/or willing to help with any project.
+
 # Open Source Mentors
 
 | Contributor/Mentor Name                  | Twitter/Github        | PR Mentorship Focus area    |
