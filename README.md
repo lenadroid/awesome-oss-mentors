@@ -121,3 +121,4 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Andrew Brown | https://twitter.com/waunakeesoccer1 | * |
 | Adam Dymitruk | https://twitter.com/adymitruk | * |
 | Jon Wood | https://twitter.com/JWood | Experience with .NET, Python, Jupyter, and data science items
+| Cristian Măgherușan-Stanciu |  https://twitter.com/magheru_san https://github.com/cristim | Eager to mentor people interested to contribute on [AutoSpotting](https://github.com/cristim/autospotting), mainly Go with the AWS SDK |
