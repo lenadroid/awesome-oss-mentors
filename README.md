@@ -136,3 +136,4 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
+| Chaim Eliyah | https://github.com/chaim1221 | The Machete open source project for day laborers and day labor centers, utilising C#, WebAPI, AngularJS, NUnit |
