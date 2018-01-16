@@ -28,7 +28,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Paul Morie   | https://twitter.com/cheddarmint    | Kubernetes    |
 | svetlyak40wt   | https://twitter.com/svetlyak40wt    | Working on the refactoring of Common Lisp web framework, known as Weblocks.    |
 | Paul Tyng   | https://twitter.com/ptyng    | Can help with Terraform and various other projects (mostly Go, some Javascript)    |
-| Sean Knox   | https://twitter.com/smk    | Kubernetes, Azure, AKS    |
+| Sean Knox   | https://twitter.com/smk    | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go    |
 | Graydon Hoare   | https://twitter.com/graydon_pub    | Happy to help folks interested in compilation-perf work on the swift compiler |
 | Jason Lengstorf   | https://twitter.com/jlengstorf    | * , GraphQL    |
 | Tom Harvey   | https://twitter.com/tombuildsstuff    | Definitely (Terraform)    |
