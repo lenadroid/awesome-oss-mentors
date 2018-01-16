@@ -136,3 +136,4 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
+| Manraj Singh | https://twitter.com/manrajsgrover | Open Source Community Leader @[duckduckgo](https://github.com/duckduckgo) and Contributor to [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev), [PAIR-code/deeplearnjs](https://github.com/PAIR-code/deeplearnjs), [pandas-dev/pandas](https://github.com/pandas-dev/pandas) and [more](https://github.com/ManrajGrover). Ask me about Open Source and self projects. |
