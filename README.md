@@ -132,6 +132,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Nicolas CHEVOBBE | https://twitter.com/nicolaschevobbe | Can mentor anyone who wants to contribute on FirefoxDevTools |
 | Jens Schauder | https://twitter.com/jensschauder | I can help with spring data, especially commons, JPA and JDBC. |
 | Spencer Gibb | https://twitter.com/spencerbgibb | I'm willing to help with Spring Cloud contributions |
+| Roshan Jossey | https://twitter.com/sudo__bangbang | I maintain a project to help beginners get started on contributing open source projects. [First Contributions](https://github.com/Roshanjossey/first-contributions/). We also have a slack team to help/mentor people trying to contribute to open source projects. [Join slack team](https://firstcontributions.herokuapp.com) |
 | Shobhit Chittora | https://twitter.com/shobhitchittora | Contributing to Visual Studio Code and NodeJS |
 | Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
