@@ -137,3 +137,4 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
 | Marc Piechura | https://twitter.com/MarcPiechura | I can help with Akka.Net, especially the Streams module and Reactive Streams .Net |
+| Sahil Dua | https://twitter.com/sahildua2305 | Open Source Community Leader @duckduckgo and Contributor to git, google/go-github, github/linguist, pydata/pandas and kinto/kinto |
