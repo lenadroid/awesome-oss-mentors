@@ -114,7 +114,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 |  Joyce Hsiao  | https://twitter.com/jhsiao999   |  *  |
 |  Navdeep Gill  | https://twitter.com/Navdeep_Gill_   |  H2O.ai  |
 |  Dmitry Khomutov  | https://twitter.com/poisoncorpsee   | I’m open for helping contribute to php censor.   |
-|  Ed Elliot  |  https://twitter.com/EdDebug  | *   |
+|  Ed Elliott  |  https://twitter.com/EdDebug  | Happy to help on any project really, background is in windows/sql/.net/javascript but we can figure it out together :)   |
 |  Scotty C  | https://twitter.com/scottcoulton   | More than happy to help anyone get there first PR merged. Especially if you are a fellow Aussie!   |
 | Liviu Tudor   |  https://twitter.com/liviutudor  | *   |
 | Parthvi Vala | https://twitter.com/ValaParthvi | I have some experience working in python and django and I'd be more than happy to help someone.
