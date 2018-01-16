@@ -3,7 +3,7 @@ List of very friendly OSS contributors willing to help and mentor others with th
 
 # Why Does This Exist
 
-There are a lot of people who would like to contribute to OSS, and it is great. Sometimes there are thoughts like, "where do I start with this issue?", "I feel like I might break stuff", "how does this compiler work", "I almost got it, but can't seem to connect these two pieces together", and similar. It happens to all of us. That's why it is important for first-time contributors of some project to feel that there are people who can help. 
+There are a lot of people who would like to contribute to OSS, and it is great. Sometimes there are thoughts like, "where do I start with this issue?", "I feel like I might break stuff", "how does this compiler work", "I almost got it, but can't seem to connect these two pieces together", and similar. It happens to all of us. That's why it is important for first-time contributors of some project to feel that there are people who can help.
 
 Started with this tweet: https://twitter.com/lenadroid/status/951982166946201601
 
@@ -19,7 +19,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Marcos Pereira   | https://twitter.com/marcospereira    | Any project under Play Framework organization   |
 | Howard Chu   | https://twitter.com/hyc_symas    | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. |
 | Reuben Bond   | https://twitter.com/reubenbond   | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :)    |
-| Jason Brown   | https://twitter.com/jasobrown    | Always happy to help people contribute to http://packaging.python.org, http://nox.readthedocs.io, and google-cloud-python |
+| Jon Parrott   | https://twitter.com/jonparrott    | Always happy to help people contribute to http://packaging.python.org, http://nox.readthedocs.io, and google-cloud-python |
 | Raul Raja   | https://twitter.com/raulraja    | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io    |
 | Steffen Forkmann   | https://twitter.com/sforkmann    | FSProjects/Mechanic https://github.com/fsprojects/Mechanic   |
 | Ed Anderson   | https://twitter.com/edyesed    | *    |
@@ -137,3 +137,12 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
 | Stian Soiland-Reyes | https://twitter.com/soilandreyes | Apache Foundation Member, [Taverna](https://taverna.incubator.apache.org/download/code/), [Commons](https://commons.apache.org/components.html), [Juneau](https://juneau.apache.org/#sourceCode.html), [Common Workflow Language](https://github.com/common-workflow-language/), [ORCID](https://github.com/ORCID/ORCID-Source), some [Dockerfile](https://hub.docker.com/r/stain/)s or old-skool:  [JAI ImageIO](https://github.com/jai-imageio/jai-imageio-core), [Beanshell](https://github.com/beanshell/beanshell) |
+| Oskar Dudycz | https://twitter.com/oskar_at_net / https://github.com/oskardudycz/GoldenEye | I’m widely open for mentoring .Net Core, CQRS and Event Sourcing through PR to my [GoldenEye Framework](https://github.com/oskardudycz/GoldenEye) There’s lot to do and lot to learn! |
+| Dimitris-Ilias Gkanatsios | https://twitter.com/dgkanatsios | * |
+| Ankit Balyan | https://twitter.com/ankibalyan | I love to help/mentor in nodeJs, ReactJs, MeteorJs, Php/ Laravel Projects, architecturing projects, DevOps for beginners in web development  |
+| Mubaris NK | https://twitter.com/Mubaris_NK | Willing to help anything related to Python, ML, Git and Github. I maintain an organization reserved for Golang learners |
+| Chaim Eliyah | https://github.com/chaim1221 | The Machete open source project for day laborers and day labor centers, utilising C#, WebAPI, AngularJS, NUnit |
+| W. Kyle Hamilton | https://twitter.com/kylehamilton| R, Shiny |
+| Rajendra Arora | https://twitter.com/rajendraarora16 | Open source contributor in TensorFlow. Always here to help |  
+| Marc Piechura | https://twitter.com/MarcPiechura | I can help with Akka.Net, especially the Streams module and Reactive Streams .Net |
+| Sahil Dua | https://twitter.com/sahildua2305 | Open Source Community Leader @duckduckgo and Contributor to git, google/go-github, github/linguist, pydata/pandas and kinto/kinto |
