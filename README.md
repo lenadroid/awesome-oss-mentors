@@ -136,6 +136,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
+| Oskar Dudycz | https://twitter.com/oskar_at_net / https://github.com/oskardudycz/GoldenEye | I’m widely open for mentoring .Net Core, CQRS and Event Sourcing through PR to my [GoldenEye Framework](https://github.com/oskardudycz/GoldenEye) There’s lot to do and lot to learn! |
 | Dimitris-Ilias Gkanatsios | https://twitter.com/dgkanatsios | * |
 | Ankit Balyan | https://twitter.com/ankibalyan | I love to help/mentor in nodeJs, ReactJs, MeteorJs, Php/ Laravel Projects, architecturing projects, DevOps for beginners in web development  |
 | Mubaris NK | https://twitter.com/Mubaris_NK | Willing to help anything related to Python, ML, Git and Github. I maintain an organization reserved for Golang learners |
