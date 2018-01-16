@@ -136,6 +136,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
+| Stian Soiland-Reyes | https://twitter.com/soilandreyes | Apache Foundation Member, [Taverna](https://taverna.incubator.apache.org/download/code/), [Commons](https://commons.apache.org/components.html), [Juneau](https://juneau.apache.org/#sourceCode.html), [Common Workflow Language](https://github.com/common-workflow-language/), [ORCID](https://github.com/ORCID/ORCID-Source), some [Dockerfile](https://hub.docker.com/r/stain/)s or old-skool:  [JAI ImageIO](https://github.com/jai-imageio/jai-imageio-core), [Beanshell](https://github.com/beanshell/beanshell) |
 | Oskar Dudycz | https://twitter.com/oskar_at_net / https://github.com/oskardudycz/GoldenEye | I’m widely open for mentoring .Net Core, CQRS and Event Sourcing through PR to my [GoldenEye Framework](https://github.com/oskardudycz/GoldenEye) There’s lot to do and lot to learn! |
 | Dimitris-Ilias Gkanatsios | https://twitter.com/dgkanatsios | * |
 | Ankit Balyan | https://twitter.com/ankibalyan | I love to help/mentor in nodeJs, ReactJs, MeteorJs, Php/ Laravel Projects, architecturing projects, DevOps for beginners in web development  |
