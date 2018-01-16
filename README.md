@@ -147,3 +147,4 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Rajendra Arora | https://twitter.com/rajendraarora16 | Open source contributor in TensorFlow. Always here to help |  
 | Marc Piechura | https://twitter.com/MarcPiechura | I can help with Akka.Net, especially the Streams module and Reactive Streams .Net |
 | Sahil Dua | https://twitter.com/sahildua2305 | Open Source Community Leader @duckduckgo and Contributor to git, google/go-github, github/linguist, pydata/pandas and kinto/kinto |
+| James Turnbull | https://twitter.com/kartar | Open Source maintainer - Riemann, contributor to Docker, Puppet, Prometheus. Happy to help - especially on docs |
