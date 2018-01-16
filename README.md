@@ -19,7 +19,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Marcos Pereira   | https://twitter.com/marcospereira    | Any project under Play Framework organization   |
 | Howard Chu   | https://twitter.com/hyc_symas    | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. |
 | Reuben Bond   | https://twitter.com/reubenbond   | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :)    |
-| Jason Brown   | https://twitter.com/jasobrown    | Always happy to help people contribute to http://packaging.python.org, http://nox.readthedocs.io, and google-cloud-python |
+| Jon Parrott   | https://twitter.com/jonparrott    | Always happy to help people contribute to http://packaging.python.org, http://nox.readthedocs.io, and google-cloud-python |
 | Raul Raja   | https://twitter.com/raulraja    | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io    |
 | Steffen Forkmann   | https://twitter.com/sforkmann    | FSProjects/Mechanic https://github.com/fsprojects/Mechanic   |
 | Ed Anderson   | https://twitter.com/edyesed    | *    |
@@ -137,3 +137,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
 | Chaim Eliyah | https://github.com/chaim1221 | The Machete open source project for day laborers and day labor centers, utilising C#, WebAPI, AngularJS, NUnit |
+| W. Kyle Hamilton | https://twitter.com/kylehamilton| R, Shiny |
+| Rajendra Arora | https://twitter.com/rajendraarora16 | Open source contributor in TensorFlow. Always here to help |  
+| Marc Piechura | https://twitter.com/MarcPiechura | I can help with Akka.Net, especially the Streams module and Reactive Streams .Net |
+| Sahil Dua | https://twitter.com/sahildua2305 | Open Source Community Leader @duckduckgo and Contributor to git, google/go-github, github/linguist, pydata/pandas and kinto/kinto |
