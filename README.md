@@ -28,7 +28,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Paul Morie   | https://twitter.com/cheddarmint    | Kubernetes    |
 | svetlyak40wt   | https://twitter.com/svetlyak40wt    | Working on the refactoring of Common Lisp web framework, known as Weblocks.    |
 | Paul Tyng   | https://twitter.com/ptyng    | Can help with Terraform and various other projects (mostly Go, some Javascript)    |
-| Sean Knox   | https://twitter.com/smk    | Kubernetes, Azure, AKS    | <first name>.<last name> @microsoft.com |
+| Sean Knox   | https://twitter.com/smk    | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go  | `<first name>.<last name>@microsoft.com` |
 | Graydon Hoare   | https://twitter.com/graydon_pub    | Happy to help folks interested in compilation-perf work on the swift compiler |
 | Jason Lengstorf   | https://twitter.com/jlengstorf    | * , GraphQL    |
 | Tom Harvey   | https://twitter.com/tombuildsstuff    | Definitely (Terraform)    |
@@ -114,7 +114,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 |  Joyce Hsiao  | https://twitter.com/jhsiao999   |  *  |
 |  Navdeep Gill  | https://twitter.com/Navdeep_Gill_   |  H2O.ai  |
 |  Dmitry Khomutov  | https://twitter.com/poisoncorpsee   | I’m open for helping contribute to php censor.   |
-|  Ed Elliot  |  https://twitter.com/EdDebug  | *   |
+|  Ed Elliott  |  https://twitter.com/EdDebug  | Happy to help on any project really, background is in windows/sql/.net/javascript but we can figure it out together :)   |
 |  Scotty C  | https://twitter.com/scottcoulton   | More than happy to help anyone get there first PR merged. Especially if you are a fellow Aussie!   |
 | Liviu Tudor   |  https://twitter.com/liviutudor  | *   |
 | Parthvi Vala | https://twitter.com/ValaParthvi | I have some experience working in python and django and I'd be more than happy to help someone.
@@ -137,6 +137,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Garrett McCullough | https://twitter.com/gwmccull | I've contributed to React, React Native and a bunch of related projects. Happy to help |
 | Josep Prat | https://twitter.com/jlprat | I can help people having their first PR into Akka HTTP! |
 | Pete Higgins | https://twitter.com/pete_higgins | ruby, testing |
+| Manraj Singh | https://twitter.com/manrajsgrover | Open Source Community Leader @[duckduckgo](https://github.com/duckduckgo) and Contributor to [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev), [PAIR-code/deeplearnjs](https://github.com/PAIR-code/deeplearnjs), [pandas-dev/pandas](https://github.com/pandas-dev/pandas) and [more](https://github.com/ManrajGrover). Ask me about Open Source and self projects. |
 | Stian Soiland-Reyes | https://twitter.com/soilandreyes | Apache Foundation Member, [Taverna](https://taverna.incubator.apache.org/download/code/), [Commons](https://commons.apache.org/components.html), [Juneau](https://juneau.apache.org/#sourceCode.html), [Common Workflow Language](https://github.com/common-workflow-language/), [ORCID](https://github.com/ORCID/ORCID-Source), some [Dockerfile](https://hub.docker.com/r/stain/)s or old-skool:  [JAI ImageIO](https://github.com/jai-imageio/jai-imageio-core), [Beanshell](https://github.com/beanshell/beanshell) |
 | Oskar Dudycz | https://twitter.com/oskar_at_net / https://github.com/oskardudycz/GoldenEye | I’m widely open for mentoring .Net Core, CQRS and Event Sourcing through PR to my [GoldenEye Framework](https://github.com/oskardudycz/GoldenEye) There’s lot to do and lot to learn! |
 | Dimitris-Ilias Gkanatsios | https://twitter.com/dgkanatsios | * |
@@ -147,3 +148,6 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Rajendra Arora | https://twitter.com/rajendraarora16 | Open source contributor in TensorFlow. Always here to help |  
 | Marc Piechura | https://twitter.com/MarcPiechura | I can help with Akka.Net, especially the Streams module and Reactive Streams .Net |
 | Sahil Dua | https://twitter.com/sahildua2305 | Open Source Community Leader @duckduckgo and Contributor to git, google/go-github, github/linguist, pydata/pandas and kinto/kinto |
+| Dhruv Apte | https://github.com/the-ethan-hunt | Anything related to Python, ML, NLP and Git |
+| Thomas Barras | https://twitter.com/Exced_ | JS stuff (React, React-Native, Redux, Apollo, UI libs...), Go stuff, whatever |
+| James Turnbull | https://twitter.com/kartar | Open Source maintainer - Riemann, contributor to Docker, Puppet, Prometheus. Happy to help - especially on docs |
