@@ -11,8 +11,8 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 
 # Open Source Mentors
 
-| Contributor/Mentor Name                  | Twitter/Github        | PR Mentorship Focus area    |
-| :-----------          |     :---       |          :--- |
+| Contributor/Mentor Name                  | Twitter/Github        | PR Mentorship Focus area    |       Contact
+| :-----------          |     :---       |          :--- |     :--- |
 | Jason Brown   | https://twitter.com/jasobrown    | Apache Cassandra    |
 | Henrik Feldt  | https://twitter.com/henrikfeldt       | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec |
 | Sean Thomas Larkin   | https://twitter.com/TheLarkInn    | JavaScript compiler/bundler, WebPack    |
@@ -28,7 +28,7 @@ The star symbol under "PR Mentorship Focus area" column means that the mentor di
 | Paul Morie   | https://twitter.com/cheddarmint    | Kubernetes    |
 | svetlyak40wt   | https://twitter.com/svetlyak40wt    | Working on the refactoring of Common Lisp web framework, known as Weblocks.    |
 | Paul Tyng   | https://twitter.com/ptyng    | Can help with Terraform and various other projects (mostly Go, some Javascript)    |
-| Sean Knox   | https://twitter.com/smk    | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go    |
+| Sean Knox   | https://twitter.com/smk    | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go  | `<first name>.<last name>@microsoft.com` |
 | Graydon Hoare   | https://twitter.com/graydon_pub    | Happy to help folks interested in compilation-perf work on the swift compiler |
 | Jason Lengstorf   | https://twitter.com/jlengstorf    | * , GraphQL    |
 | Tom Harvey   | https://twitter.com/tombuildsstuff    | Definitely (Terraform)    |
