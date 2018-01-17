@@ -5,9 +5,13 @@ List of very friendly OSS contributors willing to help and mentor others with th
 
 There are a lot of people who would like to contribute to OSS, and it is great. Sometimes there are thoughts like, "where do I start with this issue?", "I feel like I might break stuff", "how does this compiler work", "I almost got it, but can't seem to connect these two pieces together", and similar. It happens to all of us. That's why it is important for first-time contributors of some project to feel that there are people who can help.
 
-Started with this tweet: https://twitter.com/lenadroid/status/951982166946201601
+Started with this [tweet](https://twitter.com/lenadroid/status/951982166946201601).
 
 The star symbol under "PR Mentorship Focus area" column means that the mentor didn't indicate their focus area and/or willing to help with any project.
+
+# Mentors, Be Reachable
+
+When creating a pull request to add yourself as a mentor, please make sure that your Twitter Direct Messages are open, or add another way mentees can connect with you (email, slack, etc.).
 
 # Open Source Mentors
 
