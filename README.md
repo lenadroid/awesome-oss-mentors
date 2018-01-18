@@ -15,6 +15,14 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 
 # Open Source Mentors
 
+Note to the format: Please, be sure, you keep this right, i.e. in the correct category and sorted by name.
+
+## Linux kernel
+| Contributor/Mentor Name | PR Mentorship | Auxiliary Focus area(s) | Contact |
+| :-----------            | :---          | :---                    |    :--- |
+| [Andy Shevchenko](https://twitter.com/andy_shev) | Everything you afraid to ask about Linux kernel contribution. Have a lot of (non-white space clean up) tasks for newbies. | |  `andriy.shevchenko@linux.intel.com` |
+
+## Unsorted
 | Contributor/Mentor Name | PR Mentorship Focus area | Contact |
 | :-----------            | :---                     |    :--- |
 | [Jason Brown](https://twitter.com/jasobrown) | Apache Cassandra | |
