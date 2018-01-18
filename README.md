@@ -156,3 +156,4 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Thomas Barras](https://twitter.com/Exced_) | JS stuff (React, React-Native, Redux, Apollo, UI libs...), Go stuff, whatever | |
 | [James Turnbull](https://twitter.com/kartar) | Open Source maintainer - Riemann, contributor to Docker, Puppet, Prometheus. Happy to help - especially on docs | |
 | [Steven Murawski](https://twitter.com/stevenmurawski) | Maintainer for Chef, Habitat, Test-Kitchen. Happy to help with PowerShell, Ruby, Rust, setting up build pipelines |  `<first name>.<last name>@microsoft.com` |
+| [Arun Chandrasekhar](https://twitter.com/rcarunmsft) | Principal Program Manager for Azure OSS integrations esp. with Terraform. Happy to help with Terraform, Jenkins, Ansible, Vault, Consul and any other Azure OSS integrations |  `<first name>.<last name>@microsoft.com` |
