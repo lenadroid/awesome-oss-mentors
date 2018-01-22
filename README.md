@@ -160,3 +160,4 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Kate Sky](https://twitter.com/katesky8) | .Net, C#, JS, Vue.js, WebAPI, Swagger, Angular |  me@katesky.com |
 | [Richard Littauer](https://twitter.com/richlitt) | Open Source Maintainer. Founder of @mntnr | `<first name>.<last name>@maintainer.io` or on Twitter |
 | [@stakx](https://github.com/stakx) | A friendly guy on Moq and Castle Core doing CSharp  |  `<user name>@eml.cc` |
+| [@drnic](https://twitter.com/drnic) | Your first port of call for contributing to the Cloud Foundry & BOSH communities | drnic@starkandwayne.com |
