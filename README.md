@@ -160,6 +160,7 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Kate Sky](https://twitter.com/katesky8) | .Net, C#, JS, Vue.js, WebAPI, Swagger, Angular |  me@katesky.com |
 | [Richard Littauer](https://twitter.com/richlitt) | Open Source Maintainer. Founder of @mntnr | `<first name>.<last name>@maintainer.io` or on Twitter |
 | [@stakx](https://github.com/stakx) | A friendly guy on Moq and Castle Core doing CSharp  |  `<user name>@eml.cc` |
+| [Chris Short](https://twitter.com/ChrisShort) | DevOps, CNCF Ambassador, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father | chris@chrisshort.net |
 | [Ariel Weisberg](https://twitter.com/arielweisberg) | Apache Cassandra, VoltDB | <first name>@<last name>.ws |
 | [@drnic](https://twitter.com/drnic) | Your first port of call for contributing to the Cloud Foundry & BOSH communities | drnic@starkandwayne.com |
 | [Xavier Shay](https://xaviershay.com) | Look for the `small` label on [RSpec projects](https://github.com/rspec/). I also specialize in contributing to code bases in languages I don't know :) | See [website](https://xaviershay.com) |
