@@ -160,5 +160,6 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Kate Sky](https://twitter.com/katesky8) | .Net, C#, JS, Vue.js, WebAPI, Swagger, Angular |  me@katesky.com |
 | [Richard Littauer](https://twitter.com/richlitt) | Open Source Maintainer. Founder of @mntnr | `<first name>.<last name>@maintainer.io` or on Twitter |
 | [@stakx](https://github.com/stakx) | A friendly guy on Moq and Castle Core doing CSharp  |  `<user name>@eml.cc` |
+| [@drnic](https://twitter.com/drnic) | Your first port of call for contributing to the Cloud Foundry & BOSH communities | drnic@starkandwayne.com |
 | [Xavier Shay](https://xaviershay.com) | Look for the `small` label on [RSpec projects](https://github.com/rspec/). I also specialize in contributing to code bases in languages I don't know :) | See [website](https://xaviershay.com) |
 | [Noah Watkins](https://twitter.com/noahdesu) | We are a friendly group building a [distributed shared-log](https://github.com/cruzdb/zlog) and [append-only key-value database](https://github.com/cruzdb/cruzdb) on [Ceph](https://github.com/ceph/ceph). There is something for everyone, and we are happy to help anyone get involved. | `<first name>`@cruzdb.org or Twitter |
