@@ -23,7 +23,6 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Marcos Pereira](https://twitter.com/marcospereira) | Any project under Play Framework organization | |
 | [Howard Chu](https://twitter.com/hyc_symas) | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. | |
 | [Reuben Bond](https://twitter.com/reubenbond) | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :) | |
-| [Jon Parrott](https://twitter.com/jonparrott) | Always happy to help people contribute to http://packaging.python.org, http://nox.readthedocs.io, and [google-cloud-python](https://github.com/GoogleCloudPlatform/google-cloud-python) | jon.wayne.parrott@gmail.com |
 | [Raul Raja](https://twitter.com/raulraja) | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io | |
 | [Steffen Forkmann](https://twitter.com/sforkmann) | FSProjects/Mechanic https://github.com/fsprojects/Mechanic | |
 | [Ed Anderson](https://twitter.com/edyesed) | * | |
@@ -67,7 +66,6 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Andreas Heigl](https://twitter.com/heiglandreas) | I'm open to help someone with OpenSource-Contribs. Mainly with PHP | |
 | [not a function](https://twitter.com/jbaxleyiii) | Would love to help anyone wanting to work on Appollo GraphQL | |
 | [Leandro Pereira](https://twitter.com/lafp) | I contribute to Zephyr IoT https://github.com/zephyrproject-rtos/zephyr, and maintain Lwan (https://lwan.ws) and @hardinfo (http://hardinfo.org). Willing to mentor&help newcomers. | |
-| [snarql endpoint](https://twitter.com/escowles) | i love helping new folks learn the ropes! | |
 | [Chris](https://twitter.com/TopherBR) | I've contributed to @InfluxDB but also realized a number of projects including bungiesearch (an elastic search wrapper for Django), smd (space mission designer tool in go), and hifitime (datetime management with leap seconds in Rust). | |
 | [Cédric L. Charlier](https://twitter.com/Seddryck) | Happy to help new folks to contribute to any MS Data Platform related project. | |
 | [Edward Loveall](https://twitter.com/edwardloveall) | I contribute to http://github.com/luckyframework  or random atom.io packages and I'd be happy to help. | |
@@ -126,7 +124,6 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Adam Dymitruk](https://twitter.com/adymitruk) | * | |
 | [Jon Wood](https://twitter.com/JWood) | Experience with .NET, Python, Jupyter, and data science items | |
 | [Cristian Măgherușan-Stanciu](https://twitter.com/magheru_san) | Eager to mentor people interested to contribute on [AutoSpotting](https://github.com/cristim/autospotting), mainly Go with the AWS SDK | |
-| [Gustavo Franco](https://twitter.com/aintmyusername) | I have 7 years of experience working with Node.js and I'd like to help new developers | |
 | [Irakli Safareli](https://twitter.com/safareli) | Open for helping people contribute to various Purescript projects | |
 | [Kalle Ott](https://twitter.com/kaoDev) | TypeScript | |
 | [Esteban Solano G.](https://twitter.com/stvansolano) | I'm helping these days as mentor to help shipping apps to heroku | |
@@ -146,7 +143,6 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Oskar Dudycz](https://twitter.com/oskar_at_net) | I’m widely open for mentoring .Net Core, CQRS and Event Sourcing through PR to my [GoldenEye Framework](https://github.com/oskardudycz/GoldenEye) There’s lot to do and lot to learn! | |
 | [Dimitris-Ilias Gkanatsios](https://twitter.com/dgkanatsios) | * | |
 | [Ankit Balyan](https://twitter.com/ankibalyan) | I love to help/mentor in nodeJs, ReactJs, MeteorJs, Php/ Laravel Projects, architecturing projects, DevOps for beginners in web development  | |
-| [Mubaris NK](https://twitter.com/Mubaris_NK) | Willing to help anything related to Python, ML, Git and Github. I maintain an organization reserved for Golang learners | |
 | [Chaim Eliyah](https://github.com/chaim1221) | The Machete open source project for day laborers and day labor centers, utilising C#, WebAPI, AngularJS, NUnit | |
 | [W. Kyle Hamilton](https://twitter.com/kylehamilton) | R, Shiny | |
 | [Rajendra Arora](https://twitter.com/rajendraarora16) | Open source contributor in TensorFlow. Always here to help |   |
